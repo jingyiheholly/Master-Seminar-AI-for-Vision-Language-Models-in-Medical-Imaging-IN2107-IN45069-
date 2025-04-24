@@ -60,7 +60,7 @@ Each student is assigned a paper to present and implement a related project. Git
 
 | **Student Name**          | **Paper Title**                                                                 | **GitHub Repository**                 |
 |---------------------------|----------------------------------------------------------------------------------|---------------------------------------|
-| Jun Li                     | Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions | [Repo](https://github.com/LijunRio/example_for_seminar) |
+| Jun Li (example)                    | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/abs/2503.03278) | [Repo](https://github.com/LijunRio/example_for_seminar) |
 | Francesco Vaccaro          |                                                                                  | [Repo](#)                             |
 | Dominik Garstenauer        |                                                                                  | [Repo](#)                             |
 | Linfeng Guo                |                                                                                  | [Repo](#)                             |
