@@ -86,5 +86,6 @@ For any seminar-related questions, feel free to reach out (remember to CC all of
 
 ### 🔗 Additional Resources
 
-Learn more about our research and stay updated with the latest developments from our lab:  
-🌐 **[CompAI Lab – Computational Imaging & AI in Medicine](#)**
+
+🌐 **[CompAI Lab – Computational Imaging & AI in Medicine](https://compai-lab.github.io/)** 
+
