@@ -27,7 +27,7 @@ Our goal is to **foster curiosity**, **bridge modalities**, and **inspire new re
 
 ---
 
-## 📚 Paper List
+## 📚 Recommand Paper List for the presentation
 
 | #  | **Title**                                                                                          | **Time**     | **Link**                                               | **Topics**                             |
 |----|----------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------|----------------------------------------|
@@ -51,7 +51,7 @@ Our goal is to **foster curiosity**, **bridge modalities**, and **inspire new re
 | 18 | A Scalable Framework for Evaluating Health Language Models                                        | 30 Mar 2025  | [Link](https://arxiv.org/abs/2503.23339)              | Evaluation, Health LLMs                |
 | 19 | Detecting hallucinations in large language models using semantic entropy                          | 19 Jun 2024  | [Link](https://www.nature.com/articles/s41586-024-07421-0) | LLM Evaluation, Hallucinations        |
 
-> **Note**: If you are interested in a paper that is not included in the list above, feel free to email us about the paper, and we will be happy to consider it!
+> **Note**: If you are interested in a paper that is not included in the list above, feel free to email us about the paper, and we will be happy to include it!
 
 ---
 
@@ -76,16 +76,82 @@ Each student is assigned a paper to present and implement a related project. Git
 
 ---
 
+## 💻 Project Part 
+### 1) 🩻 Datasets:
+We will privide medial datasets for you, more details will coming soon :) 
+
+
+### 2) 🛠️ Models to Use
+
+#### Closed Source Model
+
+- [ChatGPT Series](https://platform.openai.com): GPT-3, GPT-4, GPT-4o,...
+- [Gemini](https://aistudio.google.com): Gemini 2.5 Pro, Gemini 2.5 Flash...
+- ...
+...
+
+
+#### Open Source Models
+- [Baichuan 2](https://huggingface.co/baichuan-inc)
+- [DeepSeek (Code/MoE)](https://huggingface.co/deepseek-ai)
+- [DeepSeek 2.5/3](https://huggingface.co/deepseek-ai)
+- [DeepSeek R1 (Distill)](https://huggingface.co/deepseek-ai)
+- [Florence-2](https://huggingface.co/microsoft/Florence-2-large)
+- [Gemma/Gemma 2/CodeGemma](https://huggingface.co/google)
+- [Gemma 3](https://huggingface.co/google)
+- [GPT-2](https://huggingface.co/openai-community)
+- [Granite 3.0-3.3](https://huggingface.co/ibm-granite)
+- [InternLM 2-3](https://huggingface.co/internlm)
+- [InternVL 2.5-3](https://huggingface.co/OpenGVLab)
+- [Llama](https://github.com/facebookresearch/llama)
+- [Llama 2](https://huggingface.co/meta-llama)
+- [Llama 3-3.3](https://huggingface.co/meta-llama)
+- [Llama 4](https://huggingface.co/meta-llama)
+- [Llama 3.2 Vision](https://huggingface.co/meta-llama)
+- [LLaVA-1.5](https://huggingface.co/llava-hf)
+- [LLaVA-NeXT](https://huggingface.co/llava-hf)
+- [LLaVA-NeXT-Video](https://huggingface.co/llava-hf)
+- [PaliGemma/PaliGemma2](https://huggingface.co/google)
+- [Phi-1.5/Phi-2](https://huggingface.co/microsoft)
+- [Phi-3/Phi-3.5](https://huggingface.co/microsoft)
+- [Phi-3-small](https://huggingface.co/microsoft)
+- [Phi-4](https://huggingface.co/microsoft)
+- [Pixtral](https://huggingface.co/mistralai)
+- [Qwen (1-2.5) (Code/Math/MoE/QwQ)](https://huggingface.co/Qwen)
+- [Qwen3 (MoE)](https://huggingface.co/Qwen)
+- [Qwen2-Audio](https://huggingface.co/Qwen)
+- [Qwen2.5-Omni](https://huggingface.co/Qwen)
+- [Qwen2-VL/Qwen2.5-VL/QVQ](https://huggingface.co/Qwen)
+
+
+#### Medical Domain Models:
+
+- [ChexAgent](https://huggingface.co/StanfordAIMI/CheXagent-2-3b)
+- [HuatuoGPT-Vision](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)
+- [MAIRA-2](https://huggingface.co/microsoft/maira-2)
+- [Med-Flamingo-9B](https://huggingface.co/med-flamingo/med-flamingo)
+- [LLaVA-Med-v1.5](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b)
+- ...
+
+> **Note**: If you are interested in other models that not list above, just email us, we are happy to consider and add to the list :)
+
+### 3) 🚀 Recommand Framework
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [VLLM](https://github.com/vllm-project/vllm)
+- [SWIFT](https://github.com/maochaojie/swift)
+- ..
+> **Note**: You also free to use any framework, code you like :)
+
 ### 📬 Contact Information
 
-For any seminar-related questions, feel free to reach out (remember to CC all of us):  
+For any seminar-related questions, feel free to reach out **(remember to CC all of us)**:  
 - 👨‍💻 **Dr. Cosmin I. Bercea** – [cosmin.bercea@tum.de](mailto:cosmin.bercea@tum.de)  
 - 👩‍💼 **Jun Li** – [june.li@tum.de](mailto:june.li@tum.de)  
 - 👩‍💼 **Ha Young Kim** – [hayoung.kim@tum.de](mailto:hayoung.kim@tum.de)
 
 ---
 
-### 🔗 Additional Resources
+### 🔗 Group Homepage
 
 
 🌐 **[CompAI Lab – Computational Imaging & AI in Medicine](https://compai-lab.github.io/)** 
