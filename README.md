@@ -26,6 +26,16 @@ The **Master-Seminar on AI for Vision-Language Models in Medical Imaging** intro
 Our goal is to **foster curiosity**, **bridge modalities**, and **inspire new research** at the intersection of AI and medical imaging.
 
 ---
+## 📖 Course Materials
+ 
+All lecture PDFs are available in TUM Moodle .
+
+| **Week** | **Topic**                           | **Slides**                                                                                         | **Recording**                                         |
+|----------|-------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Week 1   | Welcome and Introduction to VLMs-L1 | 📄 [Course Requirements](./Materials/L1_25_VLM_Intro_30_04.pdf) <br> 📄 [Introduction to VLMs](./Materials/VLM-L1.pdf) | ▶️ [YouTube](https://www.youtube.com/watch?v=WDvDeD7nnP8) |
+| Week 2   | How to Read Papers and Make Posters | *To be updated*                                                                                    | *To be updated*                                       |\
+...
+
 
 ## 📚 Recommand Paper List for the presentation
 
@@ -88,7 +98,7 @@ We will privide medial datasets for you, more details will coming soon :)
 - [ChatGPT Series](https://platform.openai.com): GPT-3, GPT-4, GPT-4o,...
 - [Gemini](https://aistudio.google.com): Gemini 2.5 Pro, Gemini 2.5 Flash...
 - ...
-...
+
 
 
 #### Open Source Models
