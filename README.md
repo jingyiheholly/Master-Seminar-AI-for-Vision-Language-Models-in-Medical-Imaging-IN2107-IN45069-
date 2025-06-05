@@ -69,27 +69,28 @@ All lecture PDFs are available in TUM Moodle .
 
 Each student is assigned a paper to present and implement a related project. GitHub links will be updated as projects are finalized.
 
-| **Student Name**          | **Paper Title**                                                                 | **GitHub Repository**                 |
-|---------------------------|----------------------------------------------------------------------------------|---------------------------------------|
-| Jun Li (example)                    | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/abs/2503.03278) | [Repo](https://github.com/LijunRio/example_for_seminar) |
-| Francesco Vaccaro          |                                                                                  | [Repo](#)                             |
-| Dominik Garstenauer        |                                                                                  | [Repo](#)                             |
-| Linfeng Guo                |                                                                                  | [Repo](#)                             |
-| Fatih Ibrahim Özlügedik    |                                                                                  | [Repo](#)                             |
-| Tuna Karacan               |                                                                                  | [Repo](#)                             |
-| Jingyi He                  |                                                                                  | [Repo](#)                             |
-| Bivek Panthi               |                                                                                  | [Repo](#)                             |
-| Philipp Rössel             |                                                                                  | [Repo](#)                             |
-| Luis Schmid                |                                                                                  | [Repo](#)                             |
-| Radoslav M. Yankov         |                                                                                  | [Repo](#)                             |
-| Abdullah Utku Yertutan     |                                                                                  | [Repo](#)                             |
+| **Student Name**          | **Paper Title**                                                                                  | **GitHub Repository**                 |
+|---------------------------|------------------------------------------------------------------------------------------------|-------------------------------------|
+| Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/)  | [Repo](#)                           |
+| Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [Repo](#)                           |
+| Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](#)                           |
+| Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | [Repo](#)                           |
+| Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/)             | [Repo](#)                           |
+| Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/)                | [Repo](#)                           |
+| Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](#)                           |
+| Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models (14 Feb 2024)](https://arxiv.org/)| [Repo](#)                           |
+| Linfeng Guo               | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](#)                           |
+| Fatih Ibrahim Özlügedik   |                                                                             | [Repo](#)                           |
+| Abdullah Utku Yertutan    |                                                                              | [Repo](#)                           |
 
----
+
 
 ## 💻 Project Part 
-### 1) 🩻 Datasets:
-We will privide medial datasets for you, more details will coming soon :) 
 
+### 1) 🩻 Datasets
+
+Explore the dataset repository for the seminar:  
+[🔗 VLM-Seminar25 Dataset](https://github.com/LijunRio/VLM-Seminar25-Dataset)
 
 ### 2) 🛠️ Models to Use
 
