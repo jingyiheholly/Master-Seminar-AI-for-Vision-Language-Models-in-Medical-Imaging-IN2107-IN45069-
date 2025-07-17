@@ -48,7 +48,7 @@ Each student is assigned a paper to present and implement a related project. Git
 | Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/)  | [Repo](#)                           |
 | Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [Repo](#)                           |
 | Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](#)                           |
-| Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | [Repo](#)                           |
+| Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | https://github.com/proessel/Seminar_VLM                           |
 | Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/)             | [Repo](#)                           |
 | Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/)                | [Repo](#)                           |
 | Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](#)                           |
