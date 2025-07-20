@@ -47,7 +47,7 @@ Each student is assigned a paper to present and implement a related project. Git
 | Jun Li （example）             | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278)  | [Repo](https://github.com/LijunRio/example_for_seminar) Here is you subbmision link                          |
 | Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/)  | [Repo](#)                           |
 | Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [Repo](#)                           |
-| Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](#)                           |
+| Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](https://github.com/RadoslavMYankov/Medical-Imaging-Seminar)                           |
 | Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | [Repo](#)                           |
 | Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/)             | [Repo](#)                           |
 | Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/)                | [Repo](#)                           |
