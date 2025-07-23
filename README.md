@@ -66,7 +66,7 @@ Each student is assigned a paper to present and implement a related project. Git
 | Dominik Garstenauer        |                                                                                  | [Repo](#)                             |
 | Linfeng Guo                |                                                                                  | [Repo](#)                             |
 | Fatih Ibrahim Özlügedik    |                                                                                  | [Repo](#)                             |
-| Tuna Karacan               |                                                                                  | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)                             |
+| Tuna Karacan               | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)                             |
 | Jingyi He                  |                                                                                  | [Repo](#)                             |
 | Bivek Panthi               |                                                                                  | [Repo](#)                             |
 | Philipp Rössel             |                                                                                  | [Repo](#)                             |
