@@ -25,7 +25,37 @@ The **Master-Seminar on AI for Vision-Language Models in Medical Imaging** intro
 
 Our goal is to **foster curiosity**, **bridge modalities**, and **inspire new research** at the intersection of AI and medical imaging.
 
----
+
+## 📖 Course Materials
+ 
+All lecture PDFs are available in TUM Moodle .
+
+| **Week** | **Topic**                           | **Slides**                                                                                         | **Recording**                                         |
+|----------|-------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Week 1   | Welcome and Introduction to VLMs-L1 | 📄 [Course Requirements](./Materials/L1_25_VLM_Intro_30_04.pdf) <br> 📄 [Introduction to VLMs](./Materials/VLM-L1.pdf) | ▶️ [YouTube](https://www.youtube.com/watch?v=WDvDeD7nnP8) |
+| Week 2   | How to Read Papers and Make Posters | 📄 [Lecture-2](./Materials/07_05_2025_VLM_HowTo.pdf) <br>                                                                                    | *To be updated*                                       |\
+...
+
+
+## 📝 Student Presentations
+
+Each student is assigned a paper to present and implement a related project. GitHub links will be updated as projects are finalized.
+- How to subbmit you final work: https://github.com/LijunRio/example_for_seminar
+
+| **Student Name**          | **Paper Title**                                                                                  | **GitHub Repository**                 |
+|---------------------------|------------------------------------------------------------------------------------------------|-------------------------------------|
+| Jun Li （example）             | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/pdf/2503.03278)  | [Repo](https://github.com/LijunRio/example_for_seminar) Here is you subbmision link                          |
+| Bivek Panthi              | [Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning (27 Mar 2025)](https://arxiv.org/abs/2503.20752)  | [RepoBivek](https://github.com/panthibivek/AI-in-Vision-Language-Models-in-Medical-Imaging)                           |
+| Luis Schmid               | [A Large Model for Non-Invasive and Personalized Management of Breast Cancer from MRI (17 Apr 2025)](https://arxiv.org/) | [RepoLuis](https://github.com/lelui/Final-Submission-In2107)                           |
+| Radoslav M. Yankov        | [Qwen2.5-VL Technical Report (19 Feb 2025)](https://arxiv.org/)                                | [Repo](https://github.com/RadoslavMYankov/Medical-Imaging-Seminar)                           |
+| Philipp Rössel            | [Visual-RFT: Visual Reinforcement Fine-Tuning (3 Mar 2025)](https://arxiv.org/)                | https://github.com/proessel/Seminar_VLM                           |
+| Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/abs/2502.02673)             | [Repo](https://github.com/dominikg-tum/VLM-Qwen-Medical-Eval)                           |
+| Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/)                | [Repo](#)                           |
+| Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](#)                           |
+| Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)   
+| Linfeng Guo               | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](#)                           |
+| Fatih Ibrahim Özlügedik   |                                                                             | [Repo](#)                           |
+| Abdullah Utku Yertutan    |                                                                              | [Repo](#)                           |
 
 ## 📚 Recommand Paper List for the presentation
 
@@ -53,86 +83,75 @@ Our goal is to **foster curiosity**, **bridge modalities**, and **inspire new re
 
 > **Note**: If you are interested in a paper that is not included in the list above, feel free to email us about the paper, and we will be happy to include it!
 
----
-
-## 📝 Student Presentations
-
-Each student is assigned a paper to present and implement a related project. GitHub links will be updated as projects are finalized.
-
-| **Student Name**          | **Paper Title**                                                                 | **GitHub Repository**                 |
-|---------------------------|----------------------------------------------------------------------------------|---------------------------------------|
-| Jun Li (example)                    | [Enhancing Abnormality Grounding for Vision-Language Models with Knowledge Descriptions](https://arxiv.org/abs/2503.03278) | [Repo](https://github.com/LijunRio/example_for_seminar) |
-| Francesco Vaccaro          |                                                                                  | [Repo](#)                             |
-| Dominik Garstenauer        |                                                                                  | [Repo](#)                             |
-| Linfeng Guo                |                                                                                  | [Repo](#)                             |
-| Fatih Ibrahim Özlügedik    |                                                                                  | [Repo](#)                             |
-| Tuna Karacan               | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)                             |
-| Jingyi He                  |                                                                                  | [Repo](#)                             |
-| Bivek Panthi               |                                                                                  | [Repo](#)                             |
-| Philipp Rössel             |                                                                                  | [Repo](#)                             |
-| Luis Schmid                |                                                                                  | [Repo](#)                             |
-| Radoslav M. Yankov         |                                                                                  | [Repo](#)                             |
-| Abdullah Utku Yertutan     |                                                                                  | [Repo](#)                             |
-
----
 
 ## 💻 Project Part 
-### 1) 🩻 Datasets:
-We will privide medial datasets for you, more details will coming soon :) 
 
+### 1) 🩻 Datasets
+
+Explore the dataset repository for the seminar:  
+[🔗 VLM-Seminar25 Dataset](https://github.com/LijunRio/VLM-Seminar25-Dataset)
 
 ### 2) 🛠️ Models to Use
 
-#### Closed Source Model
+#### Closed Source Models 
+<details>
+<summary>(Click to Expand)</summary>
 
-- [ChatGPT Series](https://platform.openai.com): GPT-3, GPT-4, GPT-4o,...
-- [Gemini](https://aistudio.google.com): Gemini 2.5 Pro, Gemini 2.5 Flash...
+- [ChatGPT Series](https://platform.openai.com): GPT-3, GPT-4, GPT-4o, ...
+- [Gemini](https://aistudio.google.com): Gemini 2.5 Pro, Gemini 2.5 Flash, ...
 - ...
-...
+
+</details>
 
 
-#### Open Source Models
-- [Baichuan 2](https://huggingface.co/baichuan-inc)
-- [DeepSeek (Code/MoE)](https://huggingface.co/deepseek-ai)
-- [DeepSeek 2.5/3](https://huggingface.co/deepseek-ai)
-- [DeepSeek R1 (Distill)](https://huggingface.co/deepseek-ai)
-- [Florence-2](https://huggingface.co/microsoft/Florence-2-large)
-- [Gemma/Gemma 2/CodeGemma](https://huggingface.co/google)
-- [Gemma 3](https://huggingface.co/google)
-- [GPT-2](https://huggingface.co/openai-community)
-- [Granite 3.0-3.3](https://huggingface.co/ibm-granite)
-- [InternLM 2-3](https://huggingface.co/internlm)
-- [InternVL 2.5-3](https://huggingface.co/OpenGVLab)
-- [Llama](https://github.com/facebookresearch/llama)
-- [Llama 2](https://huggingface.co/meta-llama)
-- [Llama 3-3.3](https://huggingface.co/meta-llama)
-- [Llama 4](https://huggingface.co/meta-llama)
-- [Llama 3.2 Vision](https://huggingface.co/meta-llama)
-- [LLaVA-1.5](https://huggingface.co/llava-hf)
-- [LLaVA-NeXT](https://huggingface.co/llava-hf)
-- [LLaVA-NeXT-Video](https://huggingface.co/llava-hf)
-- [PaliGemma/PaliGemma2](https://huggingface.co/google)
-- [Phi-1.5/Phi-2](https://huggingface.co/microsoft)
-- [Phi-3/Phi-3.5](https://huggingface.co/microsoft)
-- [Phi-3-small](https://huggingface.co/microsoft)
-- [Phi-4](https://huggingface.co/microsoft)
-- [Pixtral](https://huggingface.co/mistralai)
-- [Qwen (1-2.5) (Code/Math/MoE/QwQ)](https://huggingface.co/Qwen)
-- [Qwen3 (MoE)](https://huggingface.co/Qwen)
-- [Qwen2-Audio](https://huggingface.co/Qwen)
-- [Qwen2.5-Omni](https://huggingface.co/Qwen)
-- [Qwen2-VL/Qwen2.5-VL/QVQ](https://huggingface.co/Qwen)
+#### Open Source Models 
+<details>
+<summary>(Click to Expand)</summary>
+
+- [Baichuan 2](https://huggingface.co/baichuan-inc)  
+- [DeepSeek (Code/MoE)](https://huggingface.co/deepseek-ai)  
+- [DeepSeek 2.5/3](https://huggingface.co/deepseek-ai)  
+- [DeepSeek R1 (Distill)](https://huggingface.co/deepseek-ai)  
+- [Florence-2](https://huggingface.co/microsoft/Florence-2-large)  
+- [Gemma/Gemma 2/CodeGemma](https://huggingface.co/google)  
+- [Gemma 3](https://huggingface.co/google)  
+- [GPT-2](https://huggingface.co/openai-community)  
+- [Granite 3.0-3.3](https://huggingface.co/ibm-granite)  
+- [InternLM 2-3](https://huggingface.co/internlm)  
+- [InternVL 2.5-3](https://huggingface.co/OpenGVLab)  
+- [Llama](https://github.com/facebookresearch/llama)  
+- [Llama 2](https://huggingface.co/meta-llama)  
+- [Llama 3-3.3](https://huggingface.co/meta-llama)  
+- [Llama 4](https://huggingface.co/meta-llama)  
+- [Llama 3.2 Vision](https://huggingface.co/meta-llama)  
+- [LLaVA-1.5](https://huggingface.co/llava-hf)  
+- [LLaVA-NeXT](https://huggingface.co/llava-hf)  
+- [LLaVA-NeXT-Video](https://huggingface.co/llava-hf)  
+- [PaliGemma/PaliGemma2](https://huggingface.co/google)  
+- [Phi-1.5/Phi-2](https://huggingface.co/microsoft)  
+- [Phi-3/Phi-3.5](https://huggingface.co/microsoft)  
+- [Phi-3-small](https://huggingface.co/microsoft)  
+- [Phi-4](https://huggingface.co/microsoft)  
+- [Pixtral](https://huggingface.co/mistralai)  
+- [Qwen (1-2.5) (Code/Math/MoE/QwQ)](https://huggingface.co/Qwen)  
+- [Qwen3 (MoE)](https://huggingface.co/Qwen)  
+- [Qwen2-Audio](https://huggingface.co/Qwen)  
+- [Qwen2.5-Omni](https://huggingface.co/Qwen)  
+- [Qwen2-VL/Qwen2.5-VL/QVQ](https://huggingface.co/Qwen)  
+
+</details>
 
 
 #### Medical Domain Models:
-
+<details>
+<summary>(Click to Expand)</summary>
 - [ChexAgent](https://huggingface.co/StanfordAIMI/CheXagent-2-3b)
 - [HuatuoGPT-Vision](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B)
 - [MAIRA-2](https://huggingface.co/microsoft/maira-2)
 - [Med-Flamingo-9B](https://huggingface.co/med-flamingo/med-flamingo)
 - [LLaVA-Med-v1.5](https://huggingface.co/microsoft/llava-med-v1.5-mistral-7b)
 - ...
-
+</details>
 > **Note**: If you are interested in other models that not list above, just email us, we are happy to consider and add to the list :)
 
 ### 3) 🚀 Recommand Framework
