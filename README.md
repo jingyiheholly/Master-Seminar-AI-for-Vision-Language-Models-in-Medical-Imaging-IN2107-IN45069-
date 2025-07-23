@@ -52,7 +52,7 @@ Each student is assigned a paper to present and implement a related project. Git
 | Dominik Garstenauer       | [MedRAX: Medical Reasoning Agent for Chest X-ray (4 Feb 2025)](https://arxiv.org/abs/2502.02673)             | [Repo](https://github.com/dominikg-tum/VLM-Qwen-Medical-Eval)                           |
 | Jingyi He                 | [MAIRA-2: Grounded Radiology Report Generation (6 Jun 2024)](https://arxiv.org/)                | [Repo](#)                           |
 | Francesco Vaccaro         | [Detecting Hallucinations in Large Language Models Using Semantic Entropy (19 Jun 2024)](https://arxiv.org/) | [Repo](#)                           |
-| Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models (14 Feb 2024)](https://arxiv.org/)| [Repo](#)                           |
+| Tuna Karacan              | [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/abs/2402.08939) | [Repo](https://github.com/TunaKaracan/Final-Submission-In2107-Tuna)   
 | Linfeng Guo               | [CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation (22 Jan 2024)](https://arxiv.org/) | [Repo](#)                           |
 | Fatih Ibrahim Özlügedik   |                                                                             | [Repo](#)                           |
 | Abdullah Utku Yertutan    |                                                                              | [Repo](#)                           |
